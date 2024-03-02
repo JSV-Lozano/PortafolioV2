@@ -27,7 +27,7 @@ const projects: Project[] = [
         css: "bg-cyan-500",
       },
     ],
-    link: "https://github-search-users-pied.vercel.app/",
+    link: "https://weather-app-nu-one-85.vercel.app/ ",
     repo: "https://github.com/JSV-Lozano/WeatherAPP",
   },
   {
@@ -43,7 +43,7 @@ const projects: Project[] = [
         css: "bg-cyan-500",
       },
     ],
-    link: "https://weather-app-nu-one-85.vercel.app/",
+    link: "https://github-search-users-pied.vercel.app/",
     repo: "https://github.com/JSV-Lozano/GitHub-SearchUsers",
   },
   {
