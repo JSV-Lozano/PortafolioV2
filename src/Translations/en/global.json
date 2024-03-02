@@ -1,0 +1,30 @@
+{
+  "info": {
+    "name": "Jhoan Vásquez",
+    "title": "Front-End Developer"
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "experience": {
+    "title": "Experience",
+    "date1": "August 2023 / September 2023",
+    "experience1": "PeaKu",
+    "rollexperience1": "Developer Full Stack",
+    "desexperience1": "I participated in the development of the PeakU website as a Fullstack Developer, utilizing modern technologies such as Vue.js for the frontend and Python for the backend.",
+    "date2": "August 2023 / October 2023",
+    "experience2": "LootVoid",
+    "rollexperience2": "Front-End Developer",
+    "desexperience2": "I actively participated in the development of an innovative website designed for efficient inventory management, utilizing cutting-edge technologies such as React, TypeScript, and Tailwind CSS. From conception to implementation, I contributed to the team to ensure the effective integration of key features.",
+    "date3": "January 2024 / Currently",
+    "experience3": "LootVoid",
+    "rollexperience3": "Front-End Developer"
+  },
+  "project": {
+    "title": "Projects",
+    "weatherappDescription": "WeatherApp is an intuitive application that keeps you updated on the weather conditions anywhere in the world. With a user-friendly and easy-to-use interface.",
+    "gitHubsearchusersDescription": "GitHub-SearchUsers is an application that allows you to explore and discover developers on GitHub quickly and easily. This tool is designed to facilitate the search for developer profiles.",
+    "nextjSdashboardDescription": "Next.JS Dashboard is a practice project designed to explore and become familiar with the Next.js framework.",
+    "landingpageDescription": "The Practice Landing Page is a personal project showcasing skills in design, development, and marketing. Developed as part of a practice exercise."
+  }
+}

@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Para navegadores Webkit (Google Chrome, Safari) y otros navegadores basados en Chromium */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #474747;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
+.typewriter {
+  text-align: center;
+  display: inline-block;
+  overflow: hidden;
+  border-right: 1px solid rgb(111, 0, 255);
+  white-space: nowrap;
+  margin: 0;
+  animation: typing 3s steps(30, end), blink-caret 0.5s step-end infinite;
+}
+
+@keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: rgb(111, 0, 255);
+  }
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
