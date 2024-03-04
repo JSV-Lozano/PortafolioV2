@@ -2,17 +2,19 @@ import PDF from "@Assets/CV-Jhoan.pdf";
 import { Anchor } from "@Components/Anchor";
 import { Button } from "@Components/Button";
 import { useLeangue } from "@Hooks/useLeangue";
+import { useTranslation } from "react-i18next";
 import { FiGithub, FiLinkedin } from "react-icons/fi";
 import { MdEmail } from "react-icons/md";
 function AboutMe2(): JSX.Element {
   const { handleChangeLeague, leangue } = useLeangue();
+  const {t} = useTranslation("global")
   return (
     <section className="flex gap-3 flex-col items-center justify-center w-full h-full">
       <h2 className="typewriter text-3xl sm:text-7xl font-semibold">
         Jhoan Vásquez
       </h2>
       <p className="typewriter text-xl sm:text-4xl opacity-80 mb-5">
-        Front-End Developer
+        {t("info.title")}
       </p>
       <div className="xl:hidden w-full flex flex-col gap-5 items-center">
         <div className="flex justify-center w-full h-full gap-5">

@@ -1,7 +1,7 @@
 {
   "info": {
     "name": "Jhoan Vásquez",
-    "title": "Front-End Developer"
+    "title": "Desarrollador Front-End"
   },
   "skills": {
     "title": "Habilidades"
@@ -10,15 +10,15 @@
     "title": "Experiencia",
     "date1": "Agosto 2023 / Septiembre 2023",
     "experience1": "PeaKu",
-    "rollexperience1": "Developer Full Stack",
+    "rollexperience1": "Desarrollador Full Stack",
     "desexperience1": "Participé en el desarrollo del sitio web de PeakU como Fullstack Developer, utilizando tecnologías modernas como Vue.js para el frontend y Python para el backend.",
     "date2": "Agosto 2023 / Octubre 2023",
     "experience2": "LootVoid",
-    "rollexperience2": "Front-End Developer",
+    "rollexperience2": "Desarrollador Front-End",
     "desexperience2": "Participé activamente en el desarrollo de un sitio web innovador diseñado para la eficiente gestión de inventario, utilizando tecnologías de última generación como React, TypeScript y Tailwind CSS. Desde la concepción hasta la implementación, contribuí al equipo para garantizar la integración efectiva de funciones clave.",
     "date3": "Enero 2024 / Actualmente",
     "experience3": "LootVoid",
-    "rollexperience3": "Front-End Developer"
+    "rollexperience3": "Desarrollador Front-End"
   },
   "project": {
     "title": "Proyectos",
